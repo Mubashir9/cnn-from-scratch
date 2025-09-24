@@ -1,2 +1,2 @@
-# cnn-from-scratch
-A Convolutional Neural Network made from scratch.
+# Convolutional Neural Network from Scratch
+In this project I made a CNN from scratch using only Pandas as Numpy.
